@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Menu variations",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste",
+    "image": "/menu2.png",
+    "link": "/"
+  },
+  {
+    "id": 2,
+    "title": "Cooking warm",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste",
+    "image": "/warm1.avif",
+    "link": "/"
+  },
+  {
+    "id": 3,
+    "title": "Best chef",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste",
+    "image": "/bestch.png",
+    "link": "/"
+  },
+  {
+    "id": 4,
+    "title": "Fast food",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste",
+    "image": "/fast.jpg",
+    "link": "/"
+  }
+]

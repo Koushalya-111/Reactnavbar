@@ -5,22 +5,24 @@ import Home from './Pages/Home'
 import About from './Pages/About'
 import Services from './Pages/Services'
 import Contact from './Pages/Contact'
+import Gallery from './Pages/Gallery'
 
 const App = () => {
   return (
     <BrowserRouter>
 
-      <div className="min-h-screen bg-gray-100">
+      <div>
 
         <Navbar />
 
-        <div className="max-w-6xl mx-auto p-6">
+        <div>
 
           <Routes>
             <Route path='/' element={<Home />} />
             <Route path='/About' element={<About />} />
             <Route path='/Services' element={<Services />} />
             <Route path='/Contact' element={<Contact />} />
+            <Route path='/Gallery' element={<Gallery />} />
           </Routes>
 
         </div>

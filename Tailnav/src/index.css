@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+.about_icon
+{
+    @apply text-yellow-300;
+}

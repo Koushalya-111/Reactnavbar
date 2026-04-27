@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Caesar Salad(187 Kcal)",
+        "price": 199,
+        "image": "./Gallery/foodone.jpg"
+    },
+    {
+        "id": 2,
+        "name": " Christmas salad(118 Kcal)",
+        "price": 149,
+        "image": "./Gallery/foodtwo.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sauteed mushrooms(238 kcal)",
+        "price": 179,
+        "image": "./Gallery/foodthree.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Chicken Feast Pizza(272 kcal)",
+        "price": 129,
+        "image": "./Gallery/foodfour.jpg"
+    },
+    {
+        "id": 5,
+        "name": "French Fries(272 kcal)",
+        "price": 99,
+        "image": "./Gallery/foodfive.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Indian Meal(300 kcal)",
+        "price": 159,
+        "image": "./Gallery/foodsix.jpg"
+    }
+]
